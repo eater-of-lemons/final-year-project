@@ -1,0 +1,9 @@
+pandas
+plotly
+bs4
+requests
+selenium
+Flask
+flask-cors
+vaderSentiment
+langdetect
